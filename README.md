@@ -4,7 +4,7 @@
 
 I am a Full Stack Developer that loves building and designing applications that preform well! 
 
-Feel free to take a look at some of my repositories! My personal favourite is Guess The Country.
+Feel free to take a look at some of my repositories! My personal favourite is Guess-The-Country.
 
 ### Connent with me on LinkedIn:
 <a href="https://www.linkedin.com/in/alialhattab/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
