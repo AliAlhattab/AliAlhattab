@@ -1,4 +1,4 @@
-### Hey there, im Ali Alhattab 👋
+### Hey there, I'm Ali Alhattab 👋
 ### Welcome to my GitHub :computer:
 ---
 
